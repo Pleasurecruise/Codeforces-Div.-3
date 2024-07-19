@@ -1,0 +1,19 @@
+type: codeforces
+title: Codeforces Round 954 (Div. 3)
+language: English
+summary: |-
+  A. X Axis
+  B. Matrix Stabilization
+  C. Update Queries
+  D. Mathematical Problem
+  E. Beautiful Array
+  F. Non-academic Problem
+  G1. Permutation Problem (Simple Version)
+  G2. Permutation Problem (Hard Version)
+programming_language: C/C++
+programming_language_version: 11
+content:
+  - Problems
+end_date_time: 1719162300.000000000
+program_type_id: 43
+mode: Study

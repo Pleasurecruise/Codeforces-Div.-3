@@ -1,0 +1,18 @@
+type: codeforces
+custom_name: F. Non-academic Problem
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: testData/1/input.txt
+    visible: true
+    learner_created: false
+  - name: testData/1/output.txt
+    visible: true
+    learner_created: false
+problem_index: F
+feedback_link: https://codeforces.com/contest/1986/problem/F?locale=en
+status: Unchecked

@@ -1,0 +1,18 @@
+type: codeforces
+custom_name: A. Only Pluses
+files:
+  - name: CMakeLists.txt
+    visible: false
+    learner_created: false
+  - name: src/main.cpp
+    visible: true
+    learner_created: false
+  - name: testData/1/input.txt
+    visible: true
+    learner_created: false
+  - name: testData/1/output.txt
+    visible: true
+    learner_created: false
+problem_index: A
+feedback_link: https://codeforces.com/contest/1992/problem/A?locale=en
+status: Solved
