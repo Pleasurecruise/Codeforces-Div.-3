@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Codeforces_Round_954__Div__3_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\Problems\;CMake Files\Problems\task1\;CMake Files\Problems\task2\;CMake Files\Problems\task3\;CMake Files\Problems\task4\;CMake Files\Problems\task5\;CMake Files\Problems\task6\;CMake Files\Problems\task7\;CMake Files\Problems\task8\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task1-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/task1-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 task1-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task1-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/task1-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 task1-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task2-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/task2-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 task2-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task2-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/task2-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 task2-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/task3-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 task3-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task3-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/task3-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 task3-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task4-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/task4-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 task4-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task4-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/task4-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 task4-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task5-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/task5-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 task5-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task5-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/task5-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 task5-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task5/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task6-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/task6-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 task6-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task6-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/task6-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 task6-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task6/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task7-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/task7-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 task7-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task7-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/task7-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 task7-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task7/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task8-run">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/task8-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 task8-run"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="task8-run/fast">
+				<Option output="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/task8-run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="E:/CLion 2024.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 task8-run/fast"/>
+					<CompileFile command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug/Problems/task8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task1/src/main.cpp">
+			<Option target="task1-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task2/src/main.cpp">
+			<Option target="task2-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task3/src/main.cpp">
+			<Option target="task3-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task4/src/main.cpp">
+			<Option target="task4-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task5/src/main.cpp">
+			<Option target="task5-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task6/src/main.cpp">
+			<Option target="task6-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task7/src/main.cpp">
+			<Option target="task7-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task8/src/main.cpp">
+			<Option target="task8-run"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake/utils.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task1\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task2\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task3\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task4\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task5\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task6\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task7\"/>
+		</Unit>
+		<Unit filename="D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/Problems/task8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Problems\task8\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

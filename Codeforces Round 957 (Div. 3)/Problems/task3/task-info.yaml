@@ -15,7 +15,4 @@ files:
     learner_created: false
 problem_index: C
 feedback_link: https://codeforces.com/contest/1992/problem/C?locale=en
-status: Unchecked
-feedback:
-  message: 无法启动检查。有关详情，请参阅<a href="https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#failed_to_launch_checking">故障排除指南</a>
-  time: "Fri, 19 Jul 2024 04:43:19 UTC"
+status: Solved

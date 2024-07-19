@@ -5,39 +5,32 @@ Accomplished using the JetBrains Academy plugin by JetBrains https://plugins.jet
 */
 
 #include <iostream>
-#include <vector>
+#include <algorithm>
 using namespace std;
 int main() {
     // Write your solution here
-    //输入
-
-    int t,n,m,k;
-    cin >> t;
-
+    int t;
+    do
+    {
+        cin >> t;
+    }while( t < 1 || t > 10000 );
     while(t--)
     {
-        cin >> n >> m >> k ;
+        //输入
+        int n,k;
+        cin >> n >> k;
+        int numbers[k];
+
+        for(int i = 0; i < k; i++) {
+            cin >> numbers[i];
+        }
 
         //算法
-        vector<int> number(m);
-        for(int i=0;i<m;++i)
-        {
-            number[i] = i+1;
-        }
-        vector<int> number2(n-m);
-        for(int j=0;j<n-m;++j)
-        {
-            number2[j] = n-j;
-        }
-
-        vector<int> result;
-        result.insert(result.end(),number2.begin(), number2.end());
-        result.insert(result.end(),number.begin(),number.end());
-        for(int k=0;k<n;++k)
-        {
-            cout << result[k] << " ";
-        }
+        //取numbers[k]中的最大值
+        int t,result;
+        t = *max_element(numbers, numbers + k);
+        result = (n - t)*2-k+1;
+        cout << result << endl;
     }
-
     return 0;
 }

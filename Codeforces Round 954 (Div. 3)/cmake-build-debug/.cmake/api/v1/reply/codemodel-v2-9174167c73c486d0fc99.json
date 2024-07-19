@@ -1,0 +1,339 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Problems/task1",
+					"jsonFile" : "directory-Problems.task1-Debug-2a573061f5e50f1df16e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Problems/task1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Problems/task2",
+					"jsonFile" : "directory-Problems.task2-Debug-178c5b85d8e41ee303be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Problems/task2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Problems/task3",
+					"jsonFile" : "directory-Problems.task3-Debug-e7c7caf5720bdaefc8cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Problems/task3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Problems/task4",
+					"jsonFile" : "directory-Problems.task4-Debug-625569ae08c93b1deb95.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Problems/task4",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Problems/task5",
+					"jsonFile" : "directory-Problems.task5-Debug-f4487b220a927199a862.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Problems/task5",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Problems/task6",
+					"jsonFile" : "directory-Problems.task6-Debug-bec15438c6d6769c318a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Problems/task6",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Problems/task7",
+					"jsonFile" : "directory-Problems.task7-Debug-216388be3d7915ff0d10.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Problems/task7",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Problems/task8",
+					"jsonFile" : "directory-Problems.task8-Debug-e14ad1835585153e34eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Problems/task8",
+					"targetIndexes" : 
+					[
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Codeforces_Round_954__Div__3_"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "task1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "task2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "task3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "task4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "task5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "task6",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "task7",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "task8",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "task1-run::@aa1e71cef9bf97cf9d3a",
+					"jsonFile" : "target-task1-run-Debug-0870f3758bcdc22e397e.json",
+					"name" : "task1-run",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "task2-run::@e9fa9489d32ece2e2316",
+					"jsonFile" : "target-task2-run-Debug-2b845b32b01927a42bac.json",
+					"name" : "task2-run",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "task3-run::@855d716c45c4078a4241",
+					"jsonFile" : "target-task3-run-Debug-2c0b75905ed8057071e4.json",
+					"name" : "task3-run",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "task4-run::@c1e4b0311625b63039ad",
+					"jsonFile" : "target-task4-run-Debug-a966651965553f662751.json",
+					"name" : "task4-run",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "task5-run::@57e06c0f25b34e89d7b4",
+					"jsonFile" : "target-task5-run-Debug-b13ba70570074c6272c6.json",
+					"name" : "task5-run",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "task6-run::@9df6318774ff21a38b9a",
+					"jsonFile" : "target-task6-run-Debug-b907e241594b5362847a.json",
+					"name" : "task6-run",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "task7-run::@8d4b8a1f991a03fce1db",
+					"jsonFile" : "target-task7-run-Debug-6a70e7f52169af90f000.json",
+					"name" : "task7-run",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "task8-run::@aba0cf06f9f56a27e120",
+					"jsonFile" : "target-task8-run-Debug-84b34e9ed66f5de3388e.json",
+					"name" : "task8-run",
+					"projectIndex" : 8
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)/cmake-build-debug",
+		"source" : "D:/CLionProject/Codeforces Div. 3/Codeforces Round 954 (Div. 3)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
